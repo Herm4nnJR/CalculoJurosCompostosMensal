@@ -1,5 +1,6 @@
 # CalculoJurosCompostosMensal
-Projeto criado para teste de vaga de estágio da GiroTech
+Projeto criado para teste de vaga de estágio da GiroTech<br>
+Para a criação do projeto foi utilizada a IDE: Visual Studio Code.
 Para utilizar o WebApp, o arquivo HTML e Javascript deve ser feito o download (ou clone) dos arquivos na mesma pasta.
 <p>Quando abrir o arquivo index.html, devem ser preenchidos 3 campos:<br>
   - Capital Investido, que o capital que será utilizado no investimento.<br>
